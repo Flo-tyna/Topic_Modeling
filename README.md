@@ -1,0 +1,2 @@
+# Topic_Modeling
+This is an unsupervised machine learning algorithm which reads into the words,phrases and semantic patterns of documents to unearth the hidden meaning of the texts by clustering word groups with similar patterns. The draw back of this method is its unsupervised nature. That is the reason, many organizations prefer to train models and access their performance, rather than employing unsupervised models.  In this notebook, we’re going to delve into the 500 research articles and cluster them into groups to determine the nature of the articles.
